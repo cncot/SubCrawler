@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build
+/.idea
+/out
+speedtest.txt
+pools
+config.json
+sub/share/available
